@@ -1,7 +1,7 @@
 # ANMC_sound_project
 
 사용한 프레임워크 : codeIgniter 3 ,bootstrap 4.5<br>
-사용한 언어 : php5, Ajax, javascript<br>
+사용한 언어 : php5, Ajax, javascript, SQL<br>
 사용한 DB : MariaDB<br>
 
 제작한 목적 : 코드이그나이터3, bootstrap 4의 사용법을 익히고 MVC패턴을 이해하기위해 제작했습니다.<br><br>
