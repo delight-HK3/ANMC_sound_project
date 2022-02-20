@@ -4,7 +4,18 @@
 사용한 언어 : php5, Ajax, javascript, SQL<br>
 사용한 DB : MariaDB<br>
 
+### 프로젝트 분류 : 개인 프로젝트
+
 제작한 목적 : 코드이그나이터3, bootstrap 4의 사용법을 익히고 MVC패턴을 이해하기위해 제작했습니다.<br><br>
+
+### 주의사항
+<ul>
+  <li>이 프로젝트를 실행하기 위해서는 my 이름의 폴더가 있어야 합니다.</li>
+  <kbd>
+    <img src="https://user-images.githubusercontent.com/74585673/153512814-370120a3-735b-4730-869e-a6f7a24387e0.PNG">
+  </kbd>
+</ul>
+<br>
 
 ### 사용자 페이지
 <kbd>
