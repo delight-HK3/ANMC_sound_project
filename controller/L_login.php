@@ -1,4 +1,4 @@
-<?
+<?php
 class L_login extends CI_Controller {       // login클래스 선언
 	function __construct(){
             	parent::__construct();
