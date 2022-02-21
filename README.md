@@ -32,5 +32,5 @@
 </kbd>
 <br><br>
 <kbd>
-  <img src="https://user-images.githubusercontent.com/74585673/154823818-13a52598-8c70-4f1a-b92c-5d0f0a758470.PNG">
+  <img src="https://user-images.githubusercontent.com/74585673/154874553-c6979b9a-16a3-47d6-9f4e-07b57189ee0e.PNG">
 </kbd>
