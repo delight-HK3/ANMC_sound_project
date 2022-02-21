@@ -71,7 +71,7 @@
 			$data["text1"]=$text1;						// text1 값 전달을 위한 처리
 			$data["list"]=$this->a_gubun_m->getlist($text1,$start,$limit);   // 해당페이지 자료읽기
 
-            $this->load->view("a_main_header");                    // 상단출력(메뉴)
+            $this->load->view("a_main_header_nomenu");                    // 상단출력(메뉴)
             $this->load->view("a_findgubun_list",$data);           // gubun_list에 자료전달
             $this->load->view("a_main_footer");                      // 하단 출력 
         }
