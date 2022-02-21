@@ -23,7 +23,6 @@ class A_brand extends CI_Controller { // brand클래스 선언
 			$base_url = "/a_brand/lists/text1/$text1/page";
 		}
 		$page_segment = substr_count( substr($base_url,0,strpos($base_url,"page")) , "/" )+1;
-		$base_url = "/~sale25" . $base_url;
 
 		$config["per_page"] = 5;                              // 페이지당 표시할 line 수
 		$config["total_rows"] = $this->a_brand_m->rowcount($text1);  // 전체 레코드개수 구하기
@@ -55,7 +54,6 @@ class A_brand extends CI_Controller { // brand클래스 선언
 			$base_url = "/a_brand/noajax_lists/text1/$text1/page";
 		}
 		$page_segment = substr_count( substr($base_url,0,strpos($base_url,"page")) , "/" )+1;
-		$base_url = "/~sale25" . $base_url;
 
 		$config["per_page"] = 5;                              // 페이지당 표시할 line 수
 		$config["total_rows"] = $this->a_brand_m->rowcount($text1);  // 전체 레코드개수 구하기
