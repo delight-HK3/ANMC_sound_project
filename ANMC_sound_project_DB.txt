@@ -1,0 +1,34 @@
+table : probrand
+	
+	name	Type		Collation
+column : no25	int(11)     	
+	name25	varchar(20)	utf8_general_ci
+
+table : progubun
+
+	name	Type		Collation
+column : no25	int(11)     	
+	name25	varchar(20)	utf8_general_ci
+
+table : promember
+	
+	name	Type		Collation
+column : no25	int(11)
+	name25	varchar(20)	utf8_general_ci
+	uid25	varchar(20)	utf8_general_ci
+	pwd25	varchar(20)	utf8_general_ci
+	phone25 varchar(20)	utf8_general_ci
+	rank25	int(11)		
+
+table : proproduct
+
+	name		Type		Collation
+column : no25		int(11)
+	progubun_no25	int(11)	
+	probrand_no25	int(11)	
+	name25		varchar(20)	utf8_general_ci
+	price25		int(11)
+	pic25		varchar(255)	utf8_general_ci
+	changepic25	varchar(255)	utf8_general_ci
+	detailpic25	varchar(255)	utf8_general_ci
+	
