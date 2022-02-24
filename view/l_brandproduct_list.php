@@ -1,6 +1,6 @@
 <div style="background-color:#e6e6e6">
 	<hr style="border:solid 10px #e6e6e6;">
-<?
+<?php
 	if(!$list)
 	{
 ?>	
