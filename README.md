@@ -11,9 +11,9 @@
 
 ### 주의사항
 <ul>
-  <li>이 프로젝트를 실행하기 위해서는 my 이름의 폴더가 있어야 합니다.</li>
+  <li>이 프로젝트를 실행하기 위해서는 my, product_img 이름의 폴더가 있어야 합니다.</li>
   <kbd>
-    <img src="https://user-images.githubusercontent.com/74585673/153512814-370120a3-735b-4730-869e-a6f7a24387e0.PNG">
+    <img src="https://user-images.githubusercontent.com/74585673/155655401-eebfd6f0-13ae-4b51-90d5-9103ed509f5d.PNG">
   </kbd>
 </ul>
 <br>
