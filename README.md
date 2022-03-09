@@ -1,4 +1,4 @@
-# ANMC_sound_project
+# ANMC sound project
 
 >사용한 프레임워크 : codeIgniter 3 ,bootstrap 4.5<br>
 >사용한 언어 : php5, javascript, SQL<br>
