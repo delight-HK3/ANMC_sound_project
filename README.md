@@ -1,7 +1,7 @@
 # ANMC sound project
 
 >사용한 프레임워크 : codeIgniter 3 ,bootstrap 4.5<br>
->사용한 언어 : php5, javascript, SQL<br>
+>사용한 언어 : php5, css3, javascript, SQL<br>
 >사용한 DB : MariaDB<br>
 >사용한 Tool : Visual Studio Code<br>
 ><a href="https://github.com/gudh/ihover">gudh님의 ihover 라이브러리를 사용했습니다.</a>
