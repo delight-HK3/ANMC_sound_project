@@ -17,6 +17,8 @@
   <kbd>
     <img src="https://user-images.githubusercontent.com/74585673/155655401-eebfd6f0-13ae-4b51-90d5-9103ed509f5d.PNG">
   </kbd>
+  <li>codeIgniter3 에서 Index 죽이기 작업을 하고 진행했습니다. 위의 코드를 실행시키려면 먼저 Index 죽이기 작업을 하셔야 합니다.</li>
+   <li><a href="https://gold9ine.tistory.com/entry/CodeIgniter-%EC%BD%94%EB%93%9C%EC%9D%B4%EA%B7%B8%EB%82%98%EC%9D%B4%ED%84%B0-indexphp-%EC%A3%BD%EC%9D%B4%EA%B8%B0-Not-Found-error">index.php remove 방법 블로그 글</a></li>
 </ul>
 <br>
 
