@@ -3,13 +3,18 @@
 >사용한 프레임워크 : codeIgniter 3 ,bootstrap 4<br>
 >사용한 언어 : php5, css3, javascript, SQL<br>
 >사용한 DB : MariaDB<br>
+>사용한 라이브러리 : <a href="https://github.com/gudh/ihover">ihover</a><br>
 >사용한 Tool : Visual Studio Code<br>
-><a href="https://github.com/gudh/ihover">gudh님의 ihover 라이브러리를 사용했습니다.</a>
 <br>
 
 ### 프로젝트 분류 : 개인 프로젝트
 
-제작한 목적 : 코드이그나이터3, bootstrap 4의 사용법을 익히고 MVC패턴을 이해하기위해 제작했습니다.<br><br>
+<ul>
+  <li><b>제작한 목적</b> : 코드이그나이터3, bootstrap 4의 사용법을 익히고 MVC패턴을 이해하기위해 제작했습니다.</li>
+  <li><b>사용자 페이지</b> : 제품소개, 검색기능, 브랜드분류별 정렬, 제품종류별 정렬 등이 있습니다.</li>
+  <li><b>관리자 페이지</b> : 회원관리, 브랜드관리, 분류관리, 제품관리 등이 있습니다.</li>
+</ul>
+<br>
 
 ### 주의사항
 <ul>
