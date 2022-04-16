@@ -1,4 +1,6 @@
 <?php
+if (!defined('BASEPATH')) exit('No direct script access allowed');
+
 class A_brand extends CI_Controller { // brand클래스 선언
         function __construct(){
             	parent::__construct();
