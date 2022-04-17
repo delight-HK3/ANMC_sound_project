@@ -1,4 +1,6 @@
 <?php
+if (!defined('BASEPATH')) exit('No direct script access allowed');
+
 class L_gubunproduct extends CI_Controller {       // product클래스 선언
 	function __construct(){
         	parent::__construct();
