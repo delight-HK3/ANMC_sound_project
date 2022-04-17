@@ -1,4 +1,6 @@
 <?php
+if (!defined('BASEPATH')) exit('No direct script access allowed');
+
 class A_member extends CI_Controller {       // a_member클래스 선언
 	function __construct(){
         	parent::__construct();
