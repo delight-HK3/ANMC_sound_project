@@ -1,4 +1,6 @@
 <?php
+if (!defined('BASEPATH')) exit('No direct script access allowed');
+
 class L_brandproduct_m extends CI_Model{     // 모델 클래스 선언
 	public function getlist($start,$limit,$no)//정보목록보기
         {
