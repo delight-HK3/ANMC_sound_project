@@ -5,8 +5,9 @@
 >사용한 DB : MariaDB<br>
 >사용한 라이브러리 : <a href="https://github.com/gudh/ihover">ihover</a><br>
 >사용한 DBMS : phpMyAdmin<br>
->사용한 서버 : Apache server<br>
+>사용한 서버 : Linux server<br>
 >사용한 Tool : Visual Studio Code<br>
+>테스트한 OS : Linux<br>
 <br>
 
 ### 프로젝트 분류 : 개인 프로젝트
